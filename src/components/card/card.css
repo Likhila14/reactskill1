@@ -1,0 +1,20 @@
+.card{
+    display: inline-block;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    width: 300px;
+    padding : 20px;
+    margin: 20px;
+  }
+  .center{
+      text-align: center;
+      padding-top: 50px;
+  }
+  .img{
+      border-radius: 100px;
+      width:260px;
+      height:300px
+  }
+  .clr{
+      color: rgb(148, 143, 143)
+  }
