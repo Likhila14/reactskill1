@@ -1,0 +1,23 @@
+#outer
+{
+    width:100%;
+    text-align: center;
+}
+.inner
+{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+button {
+	padding:10px 15px; 
+	background:#5ba545; 
+	border:0 none;
+	cursor:pointer;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	color: #fff;
+}
+.padding{
+    padding-top: 25px ;
+}
